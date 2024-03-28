@@ -1,0 +1,8 @@
+recursive-include docs/source *
+include docs/Makefile docs/make.bat docs/requirements.txt
+
+include setup.py
+include README.rst
+include MANIFEST.in
+recursive-include pydaas/config *.yaml
+recursive-include pydaas/config *.config
