@@ -1,4 +1,4 @@
-简单上手
+入门
 ===================
 
 `pydaas <https://github.com/zjobsdev/pydaas>`_ 中最常用的类为 **DaasClient** ，
@@ -14,7 +14,7 @@
   - `datasource`, 大数据云平台中的数据名称代码，也可以在库路径下config/alias.yaml 配置常用数据别名，简化复杂度
   - `inittime`, 数值模式的起报时间或观测数据的观测时间
   - `fh`, 模式预报时效（仅针对模式数据）
-  - `varname`, 变量名, 对应于子类数据路径后移植到最后的数据目录路径，以 */* 连接
+  - `varname`, 变量名
   - `level`, 模式垂直层（仅针对模式数据）
   - `lat`, 维度切片
   - `lon`, 经度切片

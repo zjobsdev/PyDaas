@@ -12,7 +12,7 @@
 
 import os
 import sys
-sys.path.insert(0, os.path.abspath('../../../'))
+sys.path.insert(0, os.path.abspath('../../'))
 
 # -- Project information -----------------------------------------------------
 
@@ -74,6 +74,7 @@ html_favicon = '_static/distribution_32px.ico'
 html_theme_options = {
     'logo_only': True,
     'display_version': False,
+    "show_nav_level": 0,
     'github_url': "https://github.com/zjobsdev/PyDaas",
 }
 
