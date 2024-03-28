@@ -5,5 +5,5 @@ API
 DaasClient
 ------------------------
 
-.. automodule:: pydaas.DaasClient
+.. automodule:: pydaas.client
     :members:

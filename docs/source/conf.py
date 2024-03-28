@@ -75,6 +75,7 @@ html_theme_options = {
     'logo_only': True,
     'display_version': False,
     "show_nav_level": 0,
+    "collapse_navigation": True,
     'github_url': "https://github.com/zjobsdev/PyDaas",
 }
 
