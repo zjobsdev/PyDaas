@@ -58,7 +58,7 @@ exclude_patterns = []
 source_suffix = '.rst'
 
 # The master toctree document.
-master_doc = 'docs/index'
+master_doc = 'source/index'
 
 # If true, `todo` and `todoList` produce output, else they produce nothing.
 todo_include_todos = True
