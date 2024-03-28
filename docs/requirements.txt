@@ -8,3 +8,4 @@ retrying
 httplib2
 pycurl
 netCDF4
+pydata-sphinx-theme
