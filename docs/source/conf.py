@@ -12,7 +12,7 @@
 
 import os
 import sys
-sys.path.insert(0, os.path.abspath('../../'))
+sys.path.insert(0, os.path.abspath('../../../'))
 
 # -- Project information -----------------------------------------------------
 
@@ -58,7 +58,7 @@ exclude_patterns = []
 source_suffix = '.rst'
 
 # The master toctree document.
-master_doc = 'source/index'
+master_doc = 'index'
 
 # If true, `todo` and `todoList` produce output, else they produce nothing.
 todo_include_todos = True
